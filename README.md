@@ -1,8 +1,14 @@
 ```bash
-
+                      __                                         __        
+   ____   ____   ____/ /  ___          _____   __  __    ____   / /_  ____ 
+  / __ \ / __ \ / __  /  / _ \ ______ / ___/  / / / /   / __ \ / __/ / __ \
+ / / / // /_/ // /_/ /  /  __//_____// /__   / /_/ /   / /_/ // /_  / /_/ /
+/_/ /_/ \____/ \__,_/   \___/        \___/   \__, /   / .___/ \__/  \____/ 
+                                            /____/   /_/                   
 ```
-[![Build Status](https://travis-ci.org/sunNode/node-cluster-email.svg?branch=master)](https://travis-ci.org/sunNode/node-cluster-email)
-[![codecov](https://codecov.io/gh/sunNode/node-cluster-email/branch/master/graph/badge.svg)](https://codecov.io/gh/sunNode/node-cluster-email)
+[![Build Status](https://travis-ci.org/sunNode/node-cypto.svg?branch=master)](https://travis-ci.org/sunNode/node-cypto)
+[![codecov](https://codecov.io/gh/sunNode/node-cypto/branch/master/graph/badge.svg)](https://codecov.io/gh/sunNode/node-cypto)
+
 
 
 A module for taking advantage of the built-in cluster module in node v0.8 and above.send email if cluster exception,you will recieve a detail email about worker exception.
