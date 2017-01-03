@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "6.8.0"
+
+script:
+  - npm install
+  - npm run test-cov
+  - npm run test
+after_success:
+      - bash <(curl -s https://codecov.io/bash) -t 2e7241f3-cedf-4500-b526-bbd4c3788db6
