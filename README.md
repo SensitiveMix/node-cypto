@@ -24,9 +24,14 @@ Initialize Request Handler for Http Signature
 
 ```bash
 const phoenix-crpto = require('phoenix-crpto') 
-
-      new phoenix-crpto('privateKeys','host','port')
-                .then((err,result)=>{console.log(`success return: ${result}`)})
+let cypto = new phoenix-crpto('privateKeys','host','port')
+cypto
+  .then((result)=>{
+  console.log(`success return: ${result}`)
+  })
+  .catch(e=>{
+  console.error(`fail return: ${e}`)
+  })
 ```
 
 ## Test
