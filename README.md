@@ -11,7 +11,7 @@
 
 
 
-A module for taking advantage of the built-in cluster module in node v0.8 and above.send email if cluster exception,you will recieve a detail email about worker exception.
+A module for taking advantage of the built-in node signature module in node v0.8 and should contain host private and public ssh key.
 
 ## Installation
 ```bash
