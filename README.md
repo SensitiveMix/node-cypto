@@ -15,7 +15,7 @@ A module for taking advantage of the built-in node signature module in node v0.8
 
 ## Installation
 ```bash
-npm install https://github.com/sunNode/node-cypto
+yarn install https://github.com/sunNode/node-cypto
 ```
 
 
