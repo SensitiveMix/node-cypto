@@ -23,8 +23,8 @@ yarn install https://github.com/sunNode/node-cypto
 Initialize Request Handler for Http Signature
 
 ```bash
-const phoenix-crpto = require('phoenix-crpto').client
-let cypto = new phoenix-crpto('privateKeys','host','port')
+const Crpto = require('phoenix-crpto').client
+let cypto = new Crpto('privateKeys','host','port')
 cypto
   .then((result)=>{
   console.log(`success return: ${result}`)
