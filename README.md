@@ -6,7 +6,7 @@
 /_/ /_/ \____/ \__,_/   \___/        \___/   \__, /   / .___/ \__/  \____/ 
                                             /____/   /_/                   
 ```
-[![Build Status](https://travis-ci.org/sunNode/node-cypto.svg?branch=master)](https://travis-ci.org/sunNode/node-cypto)
+[![Build Status](https://travis-ci.org/SensitiveMix/node-cypto.svg?branch=master)](https://travis-ci.org/SensitiveMix/node-cypto)
 [![codecov](https://codecov.io/gh/sunNode/node-cypto/branch/master/graph/badge.svg)](https://codecov.io/gh/sunNode/node-cypto)
 
 
