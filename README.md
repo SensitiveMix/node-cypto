@@ -7,7 +7,7 @@
                                             /____/   /_/                   
 ```
 [![Build Status](https://travis-ci.org/SensitiveMix/node-cypto.svg?branch=master)](https://travis-ci.org/SensitiveMix/node-cypto)
-[![codecov](https://codecov.io/gh/sunNode/node-cypto/branch/master/graph/badge.svg)](https://codecov.io/gh/sunNode/node-cypto)
+[![codecov](https://codecov.io/gh/SensitiveMix/node-cypto/branch/master/graph/badge.svg)](https://codecov.io/gh/SensitiveMix/node-cypto)
 
 
 
