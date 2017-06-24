@@ -14,6 +14,8 @@
 A module for taking advantage of the built-in node signature module in node v0.8 and should contain host private and public ssh key.
 
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/SensitiveMix/node-cypto.svg)](https://greenkeeper.io/)
 ```bash
 yarn install https://github.com/SensitiveMix/node-cypto
 ```
