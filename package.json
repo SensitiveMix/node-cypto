@@ -7,11 +7,11 @@
   "author": "Jack",
   "license": "MIT",
   "dependencies": {
-    "expect": "^22.0.0",
+    "expect": "^23.0.0",
     "fs": "^0.0.2",
     "http-signature": "^1.1.1",
     "js-md5": "^0.7.0",
-    "nock": "^9.0.2",
+    "nock": "^10.0.4",
     "querystring": "^0.2.0"
   },
   "devDependencies": {
