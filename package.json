@@ -7,7 +7,7 @@
   "author": "Jack",
   "license": "MIT",
   "dependencies": {
-    "expect": "^24.7.0",
+    "expect": "^24.7.1",
     "fs": "^0.0.2",
     "http-signature": "^1.1.1",
     "js-md5": "^0.7.0",
