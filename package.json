@@ -9,7 +9,7 @@
   "dependencies": {
     "expect": "^25.1.0",
     "fs": "^0.0.2",
-    "http-signature": "^1.1.1",
+    "http-signature": "^1.3.4",
     "js-md5": "^0.7.0",
     "nock": "^11.1.0",
     "querystring": "^0.2.0"
